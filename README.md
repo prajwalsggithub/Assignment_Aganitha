@@ -1,6 +1,4 @@
-Absolutely, Prajwal! Here's a **clear and simple description** of your project — perfect for your GitHub README, report, or even to explain in your video:
 
----
 
 Project Title: Fetching Pharma Research Papers from PubMed
 
